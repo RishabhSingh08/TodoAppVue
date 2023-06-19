@@ -1,6 +1,6 @@
 # TodoAppVue 📝
 
-![TodoAppVue]<img width="1680" alt="Screen Shot 2023-06-19 at 8 14 19 PM" src="https://github.com/RishabhSingh08/TodoAppVue/assets/92887139/53eb8b12-131a-4a46-810c-845e51e27a3d">
+<img width="1680" alt="Screen Shot 2023-06-19 at 8 14 19 PM" src="https://github.com/RishabhSingh08/TodoAppVue/assets/92887139/53eb8b12-131a-4a46-810c-845e51e27a3d">
 
 This is a simple Todo App built with Vue.js 3 and Bootstrap. It was created as a learning project and serves as my first project in Vue.js.
 
