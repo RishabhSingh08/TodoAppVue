@@ -1,29 +1,46 @@
-# todoapp
+# TodoAppVue 📝
 
-This template should help get you started developing with Vue 3 in Vite.
+![TodoAppVue]<img width="1680" alt="Screen Shot 2023-06-19 at 8 14 19 PM" src="https://github.com/RishabhSingh08/TodoAppVue/assets/92887139/53eb8b12-131a-4a46-810c-845e51e27a3d">
 
-## Recommended IDE Setup
+This is a simple Todo App built with Vue.js 3 and Bootstrap. It was created as a learning project and serves as my first project in Vue.js.
 
-[VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur) + [TypeScript Vue Plugin (Volar)](https://marketplace.visualstudio.com/items?itemName=Vue.vscode-typescript-vue-plugin).
+## Features ✨
 
-## Customize configuration
+- ✅ Add, edit, and delete tasks
+- ✏️ Mark tasks as complete
+- 🔄 Filter tasks by status (To Do, In Progress, Completed)
 
-See [Vite Configuration Reference](https://vitejs.dev/config/).
+## Technologies Used 🛠️
 
-## Project Setup
+- Vue.js 3
+- Bootstrap
 
-```sh
-npm install
-```
+## Getting Started 🚀
 
-### Compile and Hot-Reload for Development
+To get a local copy of the project up and running, follow these steps:
 
-```sh
-npm run dev
-```
+1. Clone the repository:
+   
+   bash
+   git clone https://github.com/RishabhSingh08/TodoAppVue.git
+   
+2. Navigate to the project directory:
+   
+   bash
+   cd TodoAppVue
+   
+3. Install the dependencies:
+   
+   bash
+   npm install
+   
+4. Run the development server:
+   
+   bash
+   npm run serve
+   
+5. Open your browser and visit the link 
 
-### Compile and Minify for Production
+## Contributing 🤝
 
-```sh
-npm run build
-```
+Contributions are welcome! If you have any suggestions, improvements, or bug fixes, feel free to open an issue or submit a pull request.
